@@ -1,0 +1,10 @@
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\bin\Debug\avienes guerra.exe.config
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\bin\Debug\avienes guerra.exe
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\bin\Debug\avienes guerra.pdb
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes guerra.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes_guerra.Form1.resources
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes_guerra.Properties.Resources.resources
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes guerra.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes guerra.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes guerra.exe
+C:\Users\bryan\source\repos\avienes guerra\avienes guerra\obj\Debug\avienes guerra.pdb
