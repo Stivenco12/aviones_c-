@@ -62,7 +62,7 @@ Para ejecutar o modificar este proyecto, necesitas:
 - Mejorar la detección de colisiones.
 - Incluir un sistema de puntajes con almacenamiento.
 
-## Desarrollador = Stiven
+## Desarrollador = Stivenco12
 
 ## Contacto
 
